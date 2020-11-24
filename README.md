@@ -38,4 +38,4 @@ Jedná se o chybu, kdy Windows nemůže najít cestu k systémové proměnné `J
 
 `python -m notebook`
 
-Po úspěšném spuštění by se vám měl zobrazit váš výchozí prohlížeč v uložišti, kde jste si `notebook` spustili. V průzkumínku souborů si najdeme stažený repositář, kde jsou lekce. Formát notebooku je `.ipynb`. 
+Po úspěšném spuštění by se vám měl zobrazit váš výchozí prohlížeč v uložišti, kde jste si `notebook` spustili. V průzkumínku souborů si najdeme stažený repositář, kde jsou lekce. Formát notebooku je `.ipynb`. Kliknutím na lekci ji otevřete na dalším panelu prohlížeče. Bližší ovládání `notebooku` naleznete v první lekci.
