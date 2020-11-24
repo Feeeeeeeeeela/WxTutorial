@@ -8,7 +8,7 @@ Tutorial obsahuje:
 6. Praktická část (názorné příklady)
 7. Aplikace wxGlade
 
-Tutoriál na knihovnu `wxPython` pomocí `Jupyter Notebook`
+Repositář tutorialu si uložte a otevřete pomocí `Jupyter Notebook`.
 
 ### Instalace a spuštění Notebooku
 
@@ -37,3 +37,5 @@ Jedná se o chybu, kdy Windows nemůže najít cestu k systémové proměnné `J
 [Path](https://geek-university.com/python/add-python-to-the-windows-path/), nebo můžete program spustit jednoduše upraveným příkazem:
 
 `python -m notebook`
+
+Po úspěšném spuštění by se vám měl zobrazit váš výchozí prohlížeč v uložišti, kde jste si `notebook` spustili. V průzkumínku souborů si najdeme stažený repositář, kde jsou lekce. Formát notebooku je `.ipynb`. 
