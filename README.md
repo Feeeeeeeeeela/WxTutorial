@@ -22,7 +22,7 @@ Program se poté spouští v příkazovém řádku napsáním:
 
 `jupyter notebook`
 
-`Jupyter notebook` je též součástí programů instalace programů `Anaconda`, která vám vytvoří přímého zástupce nebo ho spustíte pomocí `Anadonca navigatoru`.
+`Jupyter notebook` je též součástí programů `Anaconda`, která vám vytvoří přímého zástupce nebo ho spustíte pomocí `Anadonca navigatoru`.
 
 Windows 10:
 
@@ -38,4 +38,4 @@ Jedná se o chybu, kdy Windows nemůže najít cestu k systémové proměnné `J
 
 `python -m notebook`
 
-Po úspěšném spuštění by se vám měl zobrazit váš výchozí prohlížeč v uložišti, kde jste si `notebook` spustili. V průzkumínku souborů si najdeme stažený repositář, kde jsou lekce. Formát notebooku je `.ipynb`. Kliknutím na lekci ji otevřete na dalším panelu prohlížeče. Bližší ovládání `notebooku` naleznete v první lekci.
+Po úspěšném spuštění by se vám měl zobrazit váš výchozí prohlížeč v uložišti, kde jste si `notebook` spustili. V průzkumínku souborů otevřete naklonovaný repositář, kde jsou lekce. Formát notebooku je `.ipynb`. Kliknutím na lekci ji otevřete na dalším panelu prohlížeče. Bližší ovládání `notebooku` naleznete v první lekci.
