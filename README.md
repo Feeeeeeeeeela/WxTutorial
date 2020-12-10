@@ -22,7 +22,7 @@ Program se poté spouští v příkazovém řádku napsáním:
 
 `jupyter notebook`
 
-`Jupyter notebook` je též součástí programů instalace programů `Anaconda`, která vám vytvoří přímého zástupce nebo ho spustíte pomocí `Anadonca navigatoru`.
+`Jupyter notebook` je též součástí programů `Anaconda`, která vám vytvoří přímého zástupce nebo ho spustíte pomocí `Anadonca navigatoru`.
 
 Windows 10:
 
